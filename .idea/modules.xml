@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/domains/domains.iml" filepath="$PROJECT_DIR$/domains/domains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mailing-service/mailing-service.iml" filepath="$PROJECT_DIR$/mailing-service/mailing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage-student/manage-student.iml" filepath="$PROJECT_DIR$/manage-student/manage-student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paiement-service/paiement-service.iml" filepath="$PROJECT_DIR$/paiement-service/paiement-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/poc-kafka.iml" filepath="$PROJECT_DIR$/.idea/poc-kafka.iml" />
+    </modules>
+  </component>
+</project>
